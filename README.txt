@@ -2,11 +2,11 @@
 Installating ...
 1. Git                         http://git-scm.com/downloads
 2. GitHub                      https://github.com/
-3. Python                      https://www.python.org/download
+3. Python version 2.7.7        https://www.python.org/download
 4. Virtual Environment         http://virtualenv.readthedocs.org/en/latest/virtualenv.html#installation
 5. Pip                         http://pip.readthedocs.org/en/latest/installing.html
-6. Django                      https://docs.djangoproject.com/en/dev/topics/install/
-7. Unittest2                   https://pypi.python.org/pypi/unittest2
+6. Django version 1.7.1        https://docs.djangoproject.com/en/dev/topics/install/
+7. Unittest2  version 0.6.0    https://pypi.python.org/pypi/unittest2
 
 Editor: Sublime Text
 
