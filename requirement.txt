@@ -1,0 +1,15 @@
+Django==1.7.1
+argparse==1.2.1
+dj-database-url==0.2.2
+dj-static==0.0.5
+gunicorn==18.0
+pbr==0.10.0
+psycopg2==2.5.3
+six==1.8.0
+static==0.4
+stevedore==1.1.0
+unittest2==0.6.0
+virtualenv==1.11.6
+virtualenv-clone==0.2.5
+virtualenvwrapper==4.3.1
+wsgiref==0.1.2
